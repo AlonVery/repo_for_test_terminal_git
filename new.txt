@@ -1,0 +1,7 @@
+total 16
+drwxr-xr-x   6 new_life  staff  192  7 авг 15:41 .
+drwxr-xr-x   4 new_life  staff  128  7 авг 15:41 ..
+drwxr-xr-x  12 new_life  staff  384  7 авг 15:41 .git
+-rw-r--r--   1 new_life  staff   16  7 авг 15:41 new.py
+-rw-r--r--   1 new_life  staff    0  7 авг 15:41 new.txt
+-rw-r--r--   1 new_life  staff   34  7 авг 15:41 test.py
